@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonBorrarParcialidades.py", "PythonBorrarParcialidades.py.pyproj", "{3A4224D3-46D9-410E-AEBD-FC5089C53F6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4224D3-46D9-410E-AEBD-FC5089C53F6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4224D3-46D9-410E-AEBD-FC5089C53F6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8001564B-97CA-4295-97CA-8005E5BC7F9E}
+	EndGlobalSection
+EndGlobal
